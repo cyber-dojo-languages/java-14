@@ -1,0 +1,2 @@
+FROM openjdk:13-jdk-alpine
+LABEL maintainer=jon@jaggersoft.com
